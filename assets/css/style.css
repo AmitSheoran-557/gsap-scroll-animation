@@ -5,3 +5,11 @@
   .home-scroll-img.is-active {
       opacity: 1;
   }
+
+  .light-yellow {
+      background-color: #d8e0a5 !important;
+  }
+
+  .text-green {
+      color: #154726 !important;
+  }
