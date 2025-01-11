@@ -1,0 +1,7 @@
+  .home-scroll-img-item.is-active {
+      opacity: 1 !important;
+  }
+
+  .home-scroll-img.is-active {
+      opacity: 1;
+  }
